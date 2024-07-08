@@ -136,8 +136,8 @@ export default {
 <style scoped>
 .search {
   padding: 20px;
-  max-width: 800px; /* Ustaw maksymalną szerokość kontenera */
-  margin: 0 auto; /* Wyśrodkuj kontener */
+  max-width: 800px;
+  margin: 0 auto; 
 }
 
 .form-group {
